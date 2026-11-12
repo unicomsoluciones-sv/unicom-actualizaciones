@@ -1,0 +1,4 @@
+{
+ "contenido": "{\"generado\":\"2026-11-12T11:56:31.572Z\",\"versiones\":[{\"version\":\"1.4.48\",\"notas\":\"\",\"archivo\":\"paquetes/unicom-1.4.48.enc\",\"sha256\":\"664622a979b747ff7d830404bd1bdfec05ee94bf476d19de20b6a9faea736382\",\"tamano\":1648776,\"fecha\":\"2026-11-12T11:56:31.567Z\",\"destinatarios\":{\"d7a442e6056bea5b\":{\"iv\":\"Rtmrj5qDICH+84H5\",\"tag\":\"G4ZuwMkjjbY27RkT897iqQ==\",\"c\":\"9akHA/wnMe3iC5B90TaX3N5/O3OMLqkQj/sx1zxwH8M=\"}}}]}",
+ "firma": "2kCCjuZ6N0QYksmDqqkHI/HKPOkbYiRoJnKKyWi6Z/TifnX+qBu8EfY7N6/Cg6U7HgCwDTz02O4lqSgPZPcSAA=="
+}
